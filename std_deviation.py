@@ -26,7 +26,7 @@ def mean(data):
 #Find the mean of the given data.
    
    # write code here
-   
+    mean=total/n
     
     
     return mean
@@ -45,7 +45,7 @@ sum =0
 for i in squared_list:
     # Do sum of all the elements 
     # write code here
-    
+    sum=sum+i
     
 
 #dividing the sum by the total values
